@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-card-challenge-using-css-flexbox-RE5kiRq9b]
 - Live Site URL: [https://knitaxd.github.io/]
 
 ### Built with
