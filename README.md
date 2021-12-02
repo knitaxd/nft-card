@@ -102,5 +102,5 @@ I will really like continue learning about animations and transitions on CSS bec
 
 I use these codes to resolve some doubts, u can watch them here:
 
-https://www.geeksforgeeks.org/how-to-create-icon-hover-effect-using-css/
-https://ishadeed.com/article/responsive-design-height/
+[https://www.geeksforgeeks.org/how-to-create-icon-hover-effect-using-css/]
+[https://ishadeed.com/article/responsive-design-height/]
